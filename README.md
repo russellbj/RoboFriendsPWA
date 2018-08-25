@@ -1,5 +1,7 @@
-# robofriends
-Tutorial for udemy course - React + Redux
+# RoboFriendsPWA
+
+Experimenting with Progressive Web App functionality.
+Initial robofriends app created following Andrei Neagoie's React+Redux udemy tutorials.
 
 To run the project:
 
