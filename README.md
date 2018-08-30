@@ -1,6 +1,6 @@
 # RoboFriendsPWA
 
-Experimenting with Progressive Web App functionality.
+Experimenting with Progressive Web App functionality and Jest unit testing.
 Initial robofriends app created following Andrei Neagoie's React+Redux udemy tutorials.
 
 To run the project:
